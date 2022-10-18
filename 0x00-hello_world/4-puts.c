@@ -2,10 +2,10 @@
 /**
  * main- this is my entry point
  *
- * Return: by default returns zero
+ * Return: By default returns zero
  * if errors otherwise non-zero
  */
-int maun(void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
