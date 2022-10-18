@@ -3,8 +3,8 @@
  * main- is the entry point
  * for the program
  *
- * Return zero is no errors
- * and non-zero is errors
+ * Return: zero if no errors
+ * and non-zero if errors
  */
 int main(void)
 {
