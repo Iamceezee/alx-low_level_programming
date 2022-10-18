@@ -1,14 +1,12 @@
 #include <stdio.h>
 /**
- * main- serves as the entry 
- * point for this program
+ * main- this is my entry point
  *
- *Return: By default returns zero
- * if no errors otherwise returns 
- * non-zero value
+ * Return: by default returns zero
+ * if errors otherwise non-zero
  */
-int main(void)
+int maun(void)
 {
-	puts("\Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
 }
